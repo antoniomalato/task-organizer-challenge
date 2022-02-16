@@ -1,0 +1,30 @@
+{
+  "name": "task-organizer-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniomalato/task-organizer-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniomalato/task-organizer-challenge/issues"
+  },
+  "homepage": "https://github.com/antoniomalato/task-organizer-challenge#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongod": "^2.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.0",
+    "nodemon": "^2.0.15",
+    "sinon": "^13.0.1"
+  }
+}
